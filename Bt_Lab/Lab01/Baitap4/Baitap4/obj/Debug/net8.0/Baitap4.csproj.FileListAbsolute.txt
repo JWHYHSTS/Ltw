@@ -1,0 +1,14 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\bin\Debug\net8.0\Baitap4.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\bin\Debug\net8.0\Baitap4.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\bin\Debug\net8.0\Baitap4.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\bin\Debug\net8.0\Baitap4.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\bin\Debug\net8.0\Baitap4.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\refint\Baitap4.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\Baitap4.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap4\Baitap4\obj\Debug\net8.0\ref\Baitap4.dll

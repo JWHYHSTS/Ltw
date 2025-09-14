@@ -1,0 +1,16 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\bin\Debug\net8.0-windows\WF_KTNamNhuan.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\bin\Debug\net8.0-windows\WF_KTNamNhuan.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\bin\Debug\net8.0-windows\WF_KTNamNhuan.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\bin\Debug\net8.0-windows\WF_KTNamNhuan.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\bin\Debug\net8.0-windows\WF_KTNamNhuan.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\refint\WF_KTNamNhuan.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\WF_KTNamNhuan.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\WF_KTNamNhuan\WF_KTNamNhuan\obj\Debug\net8.0-windows\ref\WF_KTNamNhuan.dll

@@ -1,0 +1,16 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\bin\Debug\net8.0-windows\WF_Mangdonglist.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\bin\Debug\net8.0-windows\WF_Mangdonglist.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\bin\Debug\net8.0-windows\WF_Mangdonglist.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\bin\Debug\net8.0-windows\WF_Mangdonglist.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\bin\Debug\net8.0-windows\WF_Mangdonglist.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\refint\WF_Mangdonglist.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\WF_Mangdonglist.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab03\WF_Mangdonglist\WF_Mangdonglist\obj\Debug\net8.0-windows\ref\WF_Mangdonglist.dll

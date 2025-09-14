@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\Baitap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47BEB998-7404-4CC8-926F-4C596C91F213}|Baitap1\\Baitap1.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\bt_lab\\lab01\\baitap1\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47BEB998-7404-4CC8-926F-4C596C91F213}|Baitap1\\Baitap1.csproj|solutionrelative:baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\Baitap1\\Baitap1\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap1\\Program.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\Baitap1\\Baitap1\\Program.cs",
+              "RelativeToolTip": "Baitap1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:57:57.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

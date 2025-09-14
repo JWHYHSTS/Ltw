@@ -1,0 +1,14 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\bin\Debug\net8.0\1.3_LopSanPham.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\bin\Debug\net8.0\1.3_LopSanPham.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\bin\Debug\net8.0\1.3_LopSanPham.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\bin\Debug\net8.0\1.3_LopSanPham.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\bin\Debug\net8.0\1.3_LopSanPham.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\refint\1.3_LopSanPham.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\1.3_LopSanPham.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.3_LopSanPham\1.3_LopSanPham\obj\Debug\net8.0\ref\1.3_LopSanPham.dll

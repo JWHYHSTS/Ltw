@@ -1,0 +1,14 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\bin\Debug\net8.0\Baitap2.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\refint\Baitap2.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\Baitap2.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab01\Baitap2\Baitap2\obj\Debug\net8.0\ref\Baitap2.dll

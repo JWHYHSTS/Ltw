@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\WF_KTNamNhuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55DB735-4B0E-4B07-B101-19815E12B471}|WF_KTNamNhuan\\WF_KTNamNhuan.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\bt_lab\\lab01\\wf_ktnamnhuan\\wf_ktnamnhuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55DB735-4B0E-4B07-B101-19815E12B471}|WF_KTNamNhuan\\WF_KTNamNhuan.csproj|solutionrelative:wf_ktnamnhuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55DB735-4B0E-4B07-B101-19815E12B471}|WF_KTNamNhuan\\WF_KTNamNhuan.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\bt_lab\\lab01\\wf_ktnamnhuan\\wf_ktnamnhuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A55DB735-4B0E-4B07-B101-19815E12B471}|WF_KTNamNhuan\\WF_KTNamNhuan.csproj|solutionrelative:wf_ktnamnhuan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\WF_KTNamNhuan\\WF_KTNamNhuan\\Form1.cs",
+              "RelativeDocumentMoniker": "WF_KTNamNhuan\\Form1.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\WF_KTNamNhuan\\WF_KTNamNhuan\\Form1.cs",
+              "RelativeToolTip": "WF_KTNamNhuan\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:17:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\WF_KTNamNhuan\\WF_KTNamNhuan\\Form1.cs",
+              "RelativeDocumentMoniker": "WF_KTNamNhuan\\Form1.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Bt_Lab\\Lab01\\WF_KTNamNhuan\\WF_KTNamNhuan\\Form1.cs [Design]",
+              "RelativeToolTip": "WF_KTNamNhuan\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:13:43.926Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

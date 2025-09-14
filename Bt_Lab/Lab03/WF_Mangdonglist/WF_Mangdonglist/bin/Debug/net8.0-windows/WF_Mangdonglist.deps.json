@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WF_Mangdonglist/1.0.0": {
+        "runtime": {
+          "WF_Mangdonglist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WF_Mangdonglist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

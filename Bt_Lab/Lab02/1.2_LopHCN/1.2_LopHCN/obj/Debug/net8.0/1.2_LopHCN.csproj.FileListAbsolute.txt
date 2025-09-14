@@ -1,0 +1,14 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\bin\Debug\net8.0\1.2_LopHCN.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\bin\Debug\net8.0\1.2_LopHCN.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\bin\Debug\net8.0\1.2_LopHCN.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\bin\Debug\net8.0\1.2_LopHCN.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\bin\Debug\net8.0\1.2_LopHCN.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\refint\1.2_LopHCN.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\1.2_LopHCN.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Bt_Lab\Lab02\1.2_LopHCN\1.2_LopHCN\obj\Debug\net8.0\ref\1.2_LopHCN.dll
