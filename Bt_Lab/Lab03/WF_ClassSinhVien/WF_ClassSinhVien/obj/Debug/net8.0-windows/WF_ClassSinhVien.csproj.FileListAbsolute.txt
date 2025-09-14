@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\bin\Debug\net8.0-windows\WF_ClassSinhVien.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\bin\Debug\net8.0-windows\WF_ClassSinhVien.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\bin\Debug\net8.0-windows\WF_ClassSinhVien.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\bin\Debug\net8.0-windows\WF_ClassSinhVien.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\bin\Debug\net8.0-windows\WF_ClassSinhVien.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\refint\WF_ClassSinhVien.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\WF_ClassSinhVien.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_ClassSinhVien\WF_ClassSinhVien\obj\Debug\net8.0-windows\ref\WF_ClassSinhVien.dll
