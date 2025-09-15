@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\bin\Debug\net8.0-windows\WF_QuanlyHCN.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\bin\Debug\net8.0-windows\WF_QuanlyHCN.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\bin\Debug\net8.0-windows\WF_QuanlyHCN.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\bin\Debug\net8.0-windows\WF_QuanlyHCN.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\bin\Debug\net8.0-windows\WF_QuanlyHCN.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\refint\WF_QuanlyHCN.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\WF_QuanlyHCN.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab03\WF_QuanlyHCN\WF_QuanlyHCN\obj\Debug\net8.0-windows\ref\WF_QuanlyHCN.dll
