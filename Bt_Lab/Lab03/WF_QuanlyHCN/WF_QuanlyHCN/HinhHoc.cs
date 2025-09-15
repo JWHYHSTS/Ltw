@@ -10,6 +10,7 @@ namespace WF_QuanlyHCN
     {
         public double DienTich { get; set; }
         public double ChuVi { get; set; }
+        public int Type { get; set; }
         public abstract void TinhDienTichChuVi();
 
     }
@@ -17,6 +18,13 @@ namespace WF_QuanlyHCN
     {
         public double Dai { get; set; }
         public double Rong { get; set; }
+        public HinhChuNhat(double d = 1, double r = 1)
+        {
+            Type = 1;
+            Dai = d;
+            Rong = r;
+        }
+
         public override void TinhDienTichChuVi()
         {
             DienTich = Math.Round((Dai * Rong),3);
@@ -30,6 +38,11 @@ namespace WF_QuanlyHCN
     public class HinhTron: HinhHoc
     {
         public double BanKinh { get; set; }
+        public HinhTron(double r = 1)
+        {
+            Type = 2;
+            BanKinh = r;
+        }
         public override void TinhDienTichChuVi()
         {
             DienTich = Math.Round((Math.PI * BanKinh * BanKinh),3);

@@ -31,12 +31,12 @@
             groupBox1 = new GroupBox();
             radHT = new RadioButton();
             radHCN = new RadioButton();
-            groupBox2 = new GroupBox();
+            groupBoxHCN = new GroupBox();
             txtRong = new TextBox();
             txtDai = new TextBox();
             label2 = new Label();
             label1 = new Label();
-            groupBox3 = new GroupBox();
+            groupBoxHT = new GroupBox();
             txtBanKinh = new TextBox();
             label3 = new Label();
             dataGridView1 = new DataGridView();
@@ -44,9 +44,11 @@
             btnXoa = new Button();
             btnReset = new Button();
             btnSua = new Button();
+            btnxuatJson = new Button();
+            btnxuattext = new Button();
             groupBox1.SuspendLayout();
-            groupBox2.SuspendLayout();
-            groupBox3.SuspendLayout();
+            groupBoxHCN.SuspendLayout();
+            groupBoxHT.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -83,20 +85,23 @@
             radHCN.TabStop = true;
             radHCN.Text = "Hình Chữ Nhật";
             radHCN.UseVisualStyleBackColor = true;
+            radHCN.CheckedChanged += radHCN_CheckedChanged;
             // 
-            // groupBox2
+            // groupBoxHCN
             // 
-            groupBox2.Controls.Add(txtRong);
-            groupBox2.Controls.Add(txtDai);
-            groupBox2.Controls.Add(label2);
-            groupBox2.Controls.Add(label1);
-            groupBox2.Font = new Font("Times New Roman", 9F, FontStyle.Bold);
-            groupBox2.Location = new Point(69, 232);
-            groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(434, 200);
-            groupBox2.TabIndex = 1;
-            groupBox2.TabStop = false;
-            groupBox2.Text = "Hình chữ nhật";
+            groupBoxHCN.Controls.Add(txtRong);
+            groupBoxHCN.Controls.Add(txtDai);
+            groupBoxHCN.Controls.Add(label2);
+            groupBoxHCN.Controls.Add(label1);
+            groupBoxHCN.Enabled = false;
+            groupBoxHCN.Font = new Font("Times New Roman", 9F, FontStyle.Bold);
+            groupBoxHCN.Location = new Point(69, 232);
+            groupBoxHCN.Name = "groupBoxHCN";
+            groupBoxHCN.Size = new Size(434, 200);
+            groupBoxHCN.TabIndex = 1;
+            groupBoxHCN.TabStop = false;
+            groupBoxHCN.Text = "Hình chữ nhật";
+            groupBoxHCN.Enter += groupBoxHCN_Enter;
             // 
             // txtRong
             // 
@@ -130,17 +135,17 @@
             label1.TabIndex = 0;
             label1.Text = "Dài";
             // 
-            // groupBox3
+            // groupBoxHT
             // 
-            groupBox3.Controls.Add(txtBanKinh);
-            groupBox3.Controls.Add(label3);
-            groupBox3.Font = new Font("Times New Roman", 9F, FontStyle.Bold);
-            groupBox3.Location = new Point(546, 232);
-            groupBox3.Name = "groupBox3";
-            groupBox3.Size = new Size(473, 200);
-            groupBox3.TabIndex = 2;
-            groupBox3.TabStop = false;
-            groupBox3.Text = "Hình Tròn";
+            groupBoxHT.Controls.Add(txtBanKinh);
+            groupBoxHT.Controls.Add(label3);
+            groupBoxHT.Font = new Font("Times New Roman", 9F, FontStyle.Bold);
+            groupBoxHT.Location = new Point(546, 232);
+            groupBoxHT.Name = "groupBoxHT";
+            groupBoxHT.Size = new Size(473, 200);
+            groupBoxHT.TabIndex = 2;
+            groupBoxHT.TabStop = false;
+            groupBoxHT.Text = "Hình Tròn";
             // 
             // txtBanKinh
             // 
@@ -211,27 +216,51 @@
             btnSua.UseVisualStyleBackColor = true;
             btnSua.Click += btnSua_Click;
             // 
+            // btnxuatJson
+            // 
+            btnxuatJson.Font = new Font("Segoe UI Black", 9F, FontStyle.Bold);
+            btnxuatJson.Location = new Point(1039, 255);
+            btnxuatJson.Name = "btnxuatJson";
+            btnxuatJson.Size = new Size(197, 46);
+            btnxuatJson.TabIndex = 8;
+            btnxuatJson.Text = "Xuất File JSON";
+            btnxuatJson.UseVisualStyleBackColor = true;
+            btnxuatJson.Click += btnxuatJson_Click;
+            // 
+            // btnxuattext
+            // 
+            btnxuattext.Font = new Font("Segoe UI Black", 9F, FontStyle.Bold);
+            btnxuattext.Location = new Point(1039, 349);
+            btnxuattext.Name = "btnxuattext";
+            btnxuattext.Size = new Size(197, 46);
+            btnxuattext.TabIndex = 9;
+            btnxuattext.Text = "Xuất File TEXT";
+            btnxuattext.UseVisualStyleBackColor = true;
+            btnxuattext.Click += btnxuattext_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1223, 708);
+            ClientSize = new Size(1261, 708);
+            Controls.Add(btnxuattext);
+            Controls.Add(btnxuatJson);
             Controls.Add(btnSua);
             Controls.Add(btnReset);
             Controls.Add(btnXoa);
             Controls.Add(btnThem);
             Controls.Add(dataGridView1);
-            Controls.Add(groupBox3);
-            Controls.Add(groupBox2);
+            Controls.Add(groupBoxHT);
+            Controls.Add(groupBoxHCN);
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "Form1";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
-            groupBox2.ResumeLayout(false);
-            groupBox2.PerformLayout();
-            groupBox3.ResumeLayout(false);
-            groupBox3.PerformLayout();
+            groupBoxHCN.ResumeLayout(false);
+            groupBoxHCN.PerformLayout();
+            groupBoxHT.ResumeLayout(false);
+            groupBoxHT.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
         }
@@ -241,12 +270,12 @@
         private GroupBox groupBox1;
         private RadioButton radHT;
         private RadioButton radHCN;
-        private GroupBox groupBox2;
+        private GroupBox groupBoxHCN;
         private TextBox txtRong;
         private TextBox txtDai;
         private Label label2;
         private Label label1;
-        private GroupBox groupBox3;
+        private GroupBox groupBoxHT;
         private TextBox txtBanKinh;
         private Label label3;
         private DataGridView dataGridView1;
@@ -254,5 +283,7 @@
         private Button btnXoa;
         private Button btnReset;
         private Button btnSua;
+        private Button btnxuatJson;
+        private Button btnxuattext;
     }
 }

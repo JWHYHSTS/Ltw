@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab03\\wf_quanlyhcn\\wf_quanlyhcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|solutionrelative:wf_quanlyhcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab03\\wf_quanlyhcn\\wf_quanlyhcn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|solutionrelative:wf_quanlyhcn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab03\\wf_quanlyhcn\\wf_quanlyhcn\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|solutionrelative:wf_quanlyhcn\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab03\\wf_quanlyhcn\\wf_quanlyhcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|solutionrelative:wf_quanlyhcn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab03\\wf_quanlyhcn\\wf_quanlyhcn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|solutionrelative:wf_quanlyhcn\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab03\\wf_quanlyhcn\\wf_quanlyhcn\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5C2A84A5-0B54-4AB7-B09C-329CF5652AEF}|WF_QuanlyHCN\\WF_QuanlyHCN.csproj|solutionrelative:wf_quanlyhcn\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.cs",
-              "RelativeDocumentMoniker": "WF_QuanlyHCN\\Form1.cs",
-              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.cs",
-              "RelativeToolTip": "WF_QuanlyHCN\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwK4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:00:31.443Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -45,21 +36,48 @@
               "RelativeDocumentMoniker": "WF_QuanlyHCN\\HinhHoc.cs",
               "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\HinhHoc.cs",
               "RelativeToolTip": "WF_QuanlyHCN\\HinhHoc.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA2wBgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:52:54.545Z"
+              "WhenOpened": "2025-09-15T10:35:23.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.cs",
-              "RelativeDocumentMoniker": "WF_QuanlyHCN\\Form1.cs",
-              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.cs [Design]",
-              "RelativeToolTip": "WF_QuanlyHCN\\Form1.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Program.cs",
+              "RelativeDocumentMoniker": "WF_QuanlyHCN\\Program.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Program.cs",
+              "RelativeToolTip": "WF_QuanlyHCN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T23:52:23.196Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-15T10:35:15.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.resx",
+              "RelativeDocumentMoniker": "WF_QuanlyHCN\\Form1.resx",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.resx",
+              "RelativeToolTip": "WF_QuanlyHCN\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-15T10:35:13.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WF_QuanlyHCN\\Form1.Designer.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab03\\WF_QuanlyHCN\\WF_QuanlyHCN\\Form1.Designer.cs",
+              "RelativeToolTip": "WF_QuanlyHCN\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:35:11.927Z",
+              "EditorCaption": ""
             }
           ]
         }

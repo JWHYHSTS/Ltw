@@ -178,5 +178,62 @@ namespace WF_QuanlyHCN
             danhSachHinhHoc.Clear();
             HienThiDanhSach();
         }
+
+        private void groupBoxHCN_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radHCN_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radHCN.Checked)
+            {
+                groupBoxHCN.Enabled = true;
+                groupBoxHT.Enabled = false;
+            }
+            else if (radHT.Checked)
+            {
+                groupBoxHCN.Enabled = false;
+                groupBoxHT.Enabled = true;
+            }
+        }
+
+        private void btnxuatJson_Click(object sender, EventArgs e)
+        {
+            if (danhSachHinhHoc.Count == 0)
+            {
+                MessageBox.Show("Danh sách hình học rỗng. Vui lòng thêm hình học trước khi xuất.");
+                return;
+            }
+            var jsonstring = System.Text.Json.JsonSerializer.Serialize(danhSachHinhHoc, new System.Text.Json.JsonSerializerOptions { WriteIndented = true });
+            File.WriteAllBytes("dshinhhoc.json", System.Text.Encoding.UTF8.GetBytes(jsonstring));
+        }
+
+        private void btnxuattext_Click(object sender, EventArgs e)
+        {
+            if(danhSachHinhHoc.Count == 0)
+            {
+                MessageBox.Show("Danh sách hình học rỗng. Vui lòng thêm hình học trước khi xuất.");
+                return;
+            }
+            var mang = new List<string>();
+            mang.Add("#1. Hình chữ nhật, 2. Hình tròn; các thông số các nhau bởi tab");
+            foreach(var item in danhSachHinhHoc)
+            {
+                if (item.Type == 1) 
+                {
+                    var hcn = item as HinhChuNhat;
+                    if (hcn != null)
+                        mang.Add($"1\t{hcn.Dai}\t{hcn.Rong}\t{hcn.DienTich}\t{hcn.ChuVi}");
+                }
+                else if (item.Type == 2)
+                {
+                    var ht = item as HinhTron;
+                    if (ht != null)
+                        mang.Add($"2\t{ht.BanKinh}\t{ht.DienTich}\t{ht.ChuVi}");
+                }
+            }
+            File.WriteAllLines("dshinhhoc.txt", mang.ToArray());
+        }
     }
 }
