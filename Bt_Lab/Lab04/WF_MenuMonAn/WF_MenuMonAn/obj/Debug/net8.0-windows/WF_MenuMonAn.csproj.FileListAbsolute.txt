@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\bin\Debug\net8.0-windows\WF_MenuMonAn.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\bin\Debug\net8.0-windows\WF_MenuMonAn.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\bin\Debug\net8.0-windows\WF_MenuMonAn.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\bin\Debug\net8.0-windows\WF_MenuMonAn.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\bin\Debug\net8.0-windows\WF_MenuMonAn.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\refint\WF_MenuMonAn.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\WF_MenuMonAn.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_MenuMonAn\WF_MenuMonAn\obj\Debug\net8.0-windows\ref\WF_MenuMonAn.dll

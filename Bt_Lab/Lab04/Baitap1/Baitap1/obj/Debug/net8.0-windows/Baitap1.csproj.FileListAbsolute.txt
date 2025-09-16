@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\bin\Debug\net8.0-windows\Baitap1.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\bin\Debug\net8.0-windows\Baitap1.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\bin\Debug\net8.0-windows\Baitap1.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\bin\Debug\net8.0-windows\Baitap1.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\bin\Debug\net8.0-windows\Baitap1.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\refint\Baitap1.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\Baitap1.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Baitap1\Baitap1\obj\Debug\net8.0-windows\ref\Baitap1.dll
