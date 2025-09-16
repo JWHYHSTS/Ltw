@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WF_Baitap04_TongHonHop/1.0.0": {
+        "runtime": {
+          "WF_Baitap04_TongHonHop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WF_Baitap04_TongHonHop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

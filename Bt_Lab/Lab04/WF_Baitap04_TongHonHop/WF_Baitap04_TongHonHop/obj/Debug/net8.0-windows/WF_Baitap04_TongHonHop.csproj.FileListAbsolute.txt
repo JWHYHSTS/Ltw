@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\bin\Debug\net8.0-windows\WF_Baitap04_TongHonHop.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\bin\Debug\net8.0-windows\WF_Baitap04_TongHonHop.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\bin\Debug\net8.0-windows\WF_Baitap04_TongHonHop.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\bin\Debug\net8.0-windows\WF_Baitap04_TongHonHop.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\bin\Debug\net8.0-windows\WF_Baitap04_TongHonHop.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\refint\WF_Baitap04_TongHonHop.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\WF_Baitap04_TongHonHop.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\WF_Baitap04_TongHonHop\WF_Baitap04_TongHonHop\obj\Debug\net8.0-windows\ref\WF_Baitap04_TongHonHop.dll
