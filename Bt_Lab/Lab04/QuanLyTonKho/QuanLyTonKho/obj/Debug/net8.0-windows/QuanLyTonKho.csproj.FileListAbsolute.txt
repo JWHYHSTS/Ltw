@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\bin\Debug\net8.0-windows\QuanLyTonKho.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\bin\Debug\net8.0-windows\QuanLyTonKho.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\bin\Debug\net8.0-windows\QuanLyTonKho.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\bin\Debug\net8.0-windows\QuanLyTonKho.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\bin\Debug\net8.0-windows\QuanLyTonKho.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\refint\QuanLyTonKho.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\QuanLyTonKho.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\QuanLyTonKho\QuanLyTonKho\obj\Debug\net8.0-windows\ref\QuanLyTonKho.dll
