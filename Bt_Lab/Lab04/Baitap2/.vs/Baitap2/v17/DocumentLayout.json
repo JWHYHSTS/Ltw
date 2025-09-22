@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab04\\baitap2\\baitap2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab04\\baitap2\\baitap2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab04\\baitap2\\baitap2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab04\\baitap2\\baitap2\\frmxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\frmxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|d:\\tailieudaihoc\\hk5\\ltwindow\\ltw\\bt_lab\\lab04\\baitap2\\baitap2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F46A7B06-561B-4660-B717-1FCAC13CE2DB}|Baitap2\\Baitap2.csproj|solutionrelative:baitap2\\frmxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmXuat.Designer.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\FrmXuat.Designer.cs",
+              "RelativeDocumentMoniker": "Baitap2\\FrmXuat.Designer.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\FrmXuat.Designer.cs",
+              "RelativeToolTip": "Baitap2\\FrmXuat.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:06:14.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\Form1.cs",
+              "RelativeDocumentMoniker": "Baitap2\\Form1.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\Form1.cs",
+              "RelativeToolTip": "Baitap2\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:10:25.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmXuat.cs",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\FrmXuat.cs",
+              "RelativeDocumentMoniker": "Baitap2\\FrmXuat.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\FrmXuat.cs",
+              "RelativeToolTip": "Baitap2\\FrmXuat.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:02:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\Form1.cs",
+              "RelativeDocumentMoniker": "Baitap2\\Form1.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\Form1.cs [Design]",
+              "RelativeToolTip": "Baitap2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:15:31.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmXuat.cs [Design]",
+              "DocumentMoniker": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\FrmXuat.cs",
+              "RelativeDocumentMoniker": "Baitap2\\FrmXuat.cs",
+              "ToolTip": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab04\\Baitap2\\Baitap2\\FrmXuat.cs [Design]",
+              "RelativeToolTip": "Baitap2\\FrmXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:02:20.151Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
