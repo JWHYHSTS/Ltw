@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.3_LopSanPham")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e3e4fdab8d8ffce296fc068e9901c4d32bbd90")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.3_LopSanPham")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.3_LopSanPham")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

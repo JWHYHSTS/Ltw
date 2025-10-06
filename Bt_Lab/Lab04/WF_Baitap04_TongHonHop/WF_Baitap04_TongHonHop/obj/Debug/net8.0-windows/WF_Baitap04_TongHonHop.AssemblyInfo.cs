@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WF_Baitap04_TongHonHop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b40390c2505b48b657a96962aa0ea7c0105e8491")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4e3e4fdab8d8ffce296fc068e9901c4d32bbd90")]
 [assembly: System.Reflection.AssemblyProductAttribute("WF_Baitap04_TongHonHop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WF_Baitap04_TongHonHop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

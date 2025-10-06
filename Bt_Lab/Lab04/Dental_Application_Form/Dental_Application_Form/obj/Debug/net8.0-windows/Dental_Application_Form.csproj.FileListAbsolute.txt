@@ -1,0 +1,17 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\bin\Debug\net8.0-windows\Dental_Application_Form.exe
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\bin\Debug\net8.0-windows\Dental_Application_Form.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\bin\Debug\net8.0-windows\Dental_Application_Form.runtimeconfig.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\bin\Debug\net8.0-windows\Dental_Application_Form.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\bin\Debug\net8.0-windows\Dental_Application_Form.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.Form1.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\refint\Dental_Application_Form.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\Dental_Application_Form.genruntimeconfig.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab04\Dental_Application_Form\Dental_Application_Form\obj\Debug\net8.0-windows\ref\Dental_Application_Form.dll
