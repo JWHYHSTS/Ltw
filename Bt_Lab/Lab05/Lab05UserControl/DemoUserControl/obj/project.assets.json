@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "MyUserControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MyUserControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyUserControl.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "MyUserControl/1.0.0": {
+      "type": "project",
+      "path": "../MyUserControl/MyUserControl.csproj",
+      "msbuildProject": "../MyUserControl/MyUserControl.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "MyUserControl >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\John\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab05\\Lab05UserControl\\DemoUserControl\\DemoUserControl.csproj",
+      "projectName": "DemoUserControl",
+      "projectPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab05\\Lab05UserControl\\DemoUserControl\\DemoUserControl.csproj",
+      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+      "outputPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab05\\Lab05UserControl\\DemoUserControl\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab05\\Lab05UserControl\\MyUserControl\\MyUserControl.csproj": {
+              "projectPath": "D:\\TAILIEUDAIHOC\\HK5\\LTWINDOW\\Ltw\\Bt_Lab\\Lab05\\Lab05UserControl\\MyUserControl\\MyUserControl.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

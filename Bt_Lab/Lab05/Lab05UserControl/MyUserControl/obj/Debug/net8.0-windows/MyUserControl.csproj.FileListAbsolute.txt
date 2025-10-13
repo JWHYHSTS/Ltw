@@ -1,0 +1,14 @@
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.UCDongHo.resources
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.csproj.GenerateResource.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.AssemblyInfoInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.AssemblyInfo.cs
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.csproj.CoreCompileInputs.cache
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.sourcelink.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\bin\Debug\net8.0-windows\MyUserControl.deps.json
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\bin\Debug\net8.0-windows\MyUserControl.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\bin\Debug\net8.0-windows\MyUserControl.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\refint\MyUserControl.dll
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\MyUserControl.pdb
+D:\TAILIEUDAIHOC\HK5\LTWINDOW\Ltw\Bt_Lab\Lab05\Lab05UserControl\MyUserControl\obj\Debug\net8.0-windows\ref\MyUserControl.dll
